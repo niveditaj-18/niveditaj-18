@@ -34,7 +34,7 @@ Analytics: Big Data to Information, Analytics/Decision Analysis
 
 ## 📈 Professional Experience
 **Data Engineer | Blue Horse Digital** 
-*Apr 2025 – Current* 
+*Apr 2025 – Current*
 •Developed Python-based AI application designed to transform diverse content formats into structured case materials.
 •Implemented data extraction and preprocessing pipelines, including PDF parsing (PyMuPDF) and audio transcription (Whisper).
 •Developed logic to generate structured outputs such as decision frameworks, organizational charts, and discussion prompts using LLM APIs.
