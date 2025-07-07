@@ -33,8 +33,8 @@ Analytics: Big Data to Information, Analytics/Decision Analysis
   - *AI Model to Predict Progression of Oral Cancer, International Journal of Surgery [https://journals.lww.com/international-journal-of-surgery/Fulltext/2023/01000/The_use_of_multilayer_perceptron_and_radial_basis.17.aspx]
 
 ## 📈 Professional Experience
-**Data Engineer | Blue Horse Digital** 
-*Apr 2025 – Current*
+**Data Engineer | Blue Horse Digital**   
+*Apr 2025 – Current*  
 •Developed Python-based AI application designed to transform diverse content formats into structured case materials.
 •Implemented data extraction and preprocessing pipelines, including PDF parsing (PyMuPDF) and audio transcription (Whisper).
 •Developed logic to generate structured outputs such as decision frameworks, organizational charts, and discussion prompts using LLM APIs.
@@ -45,8 +45,8 @@ Analytics: Big Data to Information, Analytics/Decision Analysis
 •Contributed to machine learning model development and supported data pipelines for business projects.
 •Assisted in collecting, cleaning, and integrating data across different modules of the application stack.
 
-**Data Analyst | Bright Mind Enrichment and Schooling**
-*Feb 2025 – May 2025* 
+**Data Analyst | Bright Mind Enrichment and Schooling**  
+*Feb 2025 – May 2025*  
 •Streamlined data collection by integrating automated workflows, enhancing efficiency and enabling data-driven decision-making.
 •Manipulated, cleaned and analysed data using SQL, R, and SAS, ensuring data accuracy and to enhance business intelligence and reporting.
 •Developed KPI metrics to analyze campaign performance, enabling data-driven optimization and strategic decision-making.
