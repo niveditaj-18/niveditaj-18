@@ -34,6 +34,7 @@ Analytics: Big Data to Information, Analytics/Decision Analysis
 
 ## 📈 Professional Experience
 **Data Engineer | Blue Horse Digital** 
+*Apr 2025 – Current* 
 •Developed Python-based AI application designed to transform diverse content formats into structured case materials.
 •Implemented data extraction and preprocessing pipelines, including PDF parsing (PyMuPDF) and audio transcription (Whisper).
 •Developed logic to generate structured outputs such as decision frameworks, organizational charts, and discussion prompts using LLM APIs.
@@ -44,7 +45,8 @@ Analytics: Big Data to Information, Analytics/Decision Analysis
 •Contributed to machine learning model development and supported data pipelines for business projects.
 •Assisted in collecting, cleaning, and integrating data across different modules of the application stack.
 
-**Data Analyst | Bright Mind Enrichment and Schooling** 
+**Data Analyst | Bright Mind Enrichment and Schooling**
+*Feb 2025 – May 2025* 
 •Streamlined data collection by integrating automated workflows, enhancing efficiency and enabling data-driven decision-making.
 •Manipulated, cleaned and analysed data using SQL, R, and SAS, ensuring data accuracy and to enhance business intelligence and reporting.
 •Developed KPI metrics to analyze campaign performance, enabling data-driven optimization and strategic decision-making.
@@ -66,7 +68,7 @@ Analytics: Big Data to Information, Analytics/Decision Analysis
 •Analyzed system performance data using Citrix, identified trends, and created dashboards to visualize bottlenecks, leading to a 20% improvement in operational efficiency
 
 **Business Development Associate | Byjus The Learning App**  
-*Dec 2016 – Dec 2017 | Bangalore, India*  
+*Dec 2016 – Dec 2017*  
 • Elevated revenue streams by applying keen analytical skills in new customer acquisition and retention strategies
 • Systematically monitored post-sale services, implementing swift and effective resolutions to identified issues
 • Recognized opportunities for upselling and cross-selling within the client base, strategically generating supplementary revenue streams
